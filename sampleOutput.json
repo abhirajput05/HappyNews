@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "BaltimoreRavens.com"
+    },
+    "author": "Ryan Mink",
+    "title": "Lamar Jackson, Ravens Agree to Five-Year Extension - BaltimoreRavens.com",
+    "description": "Lamar Jackson and the Ravens have agreed in principle to a five-year extension on the first day of the 2023 NFL Draft.",
+    "url": "https://www.baltimoreravens.com/news/lamar-jackson-ravens-agree-five-year-extension",
+    "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/ravens/wdiyeahenp31k4cfcdl8",
+    "publishedAt": "2023-04-27T20:32:41Z",
+    "content": "It wasn't long ago that negotiations appeared stalled, but the Ravens remained resolute in their desire to come to an agreement with their star 26-year-old quarterback. Jackson said he requested a t… [+1687 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Matt Turner",
+    "title": "Tech jobs aren't coming back - Business Insider",
+    "description": "In a recent note by Morgan Stanley analysts led by Brian Nowak, the bank said AI based productivity drivers are coming.",
+    "url": "https://www.businessinsider.com/tech-jobs-arent-coming-back-2023-4",
+    "urlToImage": "https://i.insider.com/6411f8375f4f54001919bf84?width=1200&format=jpeg",
+    "publishedAt": "2023-04-27T19:33:00Z",
+    "content": "Big Tech is liking the look of its new leaner shape. Companies from Meta to Microsoft to Salesforce have cut jobs in recent months, often in the pursuit of efficiency and increased profit margins. B… [+3866 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "Prisco's final 2023 NFL Mock Draft: Will Levis lands in Houston at No. 2 as five QBs go in Round 1 - CBS Sports",
+    "description": "Prisco's final word on his last mock draft: Trust no one",
+    "url": "https://www.cbssports.com/nfl/draft/news/priscos-final-2023-nfl-mock-draft-will-levis-lands-in-houston-at-no-2-as-five-qbs-go-in-round-1/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/26/126983c4-7847-4289-9956-915613c4e0a9/thumbnail/1200x675/794b1a368b28ff05c1cdd81ef2b3af58/levis.jpg",
+    "publishedAt": "2023-04-27T19:18:54Z",
+    "content": "This is my final mock draft, which means good news and bad news. The bad news first: It's as tough a year to place guys into spots as any year in my over three decades of covering the league.  The … [+1125 chars]"
+    },
+    {
+    "source": {
+    "id": "the-hill",
+    "name": "The Hill"
+    },
+    "author": "Tobias Burns",
+    "title": "Fed chief duped into fake interview with Russians posing as Zelensky - The Hill",
+    "description": "Federal Reserve Chairman Jerome Powell was fooled by a Russian duo pretending to be Ukrainian President Volodymyr Zelensky in a fake interview broadcast on Russian television, the central bank confirmed Thursday after multiple media reports. The comedy duo of…",
+    "url": "https://thehill.com/business/3975838-fed-chief-duped-into-fake-interview-with-russians-posing-as-zelensky/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/powelljerome_030723gn21_w.jpg?w=1280",
+    "publishedAt": "2023-04-27T19:01:00Z",
+    "content": "Skip to content Federal Reserve Chairman Jerome Powell was fooled by a Russian duo pretending to be Ukrainian President Volodymyr Zelensky in a fake interview broadcast on Russian television, the ce… [+3333 chars]"
+    }
+]
+}
